@@ -22,7 +22,7 @@ namespace BezierSolution
 		}
 		
 		
-		pubic void SetSpeed(float _speed){
+		public  void SetSpeed(float _speed){
 		speed = _speed;
 		}
 		
