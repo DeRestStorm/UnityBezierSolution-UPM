@@ -20,6 +20,12 @@ namespace BezierSolution
 			get { return m_normalizedT; }
 			set { m_normalizedT = value; }
 		}
+		
+		
+		pubic void SetSpeed(float _speed){
+		speed = _speed;
+		}
+		
 
 		//public float movementLerpModifier = 10f;
 		public float rotationLerpModifier = 10f;
